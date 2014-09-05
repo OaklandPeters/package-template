@@ -43,7 +43,7 @@ A short snippet describing the license (MIT, Apache, etc.)
 
 Actual Attribution
 --------------------
-`read the docs <http://funcy.readthedocs.org/>`
-This template was based on a 'README.md <https://gist.github.com/jxson/1784669/>` by [Jason Campbell][[https://gist.github.com/jxson]] on Github.
+`read the docs <http://funcy.readthedocs.org/>`_
+This template was based on a 'README.md <https://gist.github.com/jxson/1784669/>`_ by [Jason Campbell][[https://gist.github.com/jxson]] on Github.
 
 For more information on ReStructuredText (RST) formatting, see the [QuickRef][[http://docutils.sourceforge.net/docs/user/rst/quickref.html]].
