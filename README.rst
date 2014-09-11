@@ -1,6 +1,7 @@
-==============================
-BEWARE
-Everything below is boilerplate, and has not yet been modified.
+~~BEWARE~~
+===================================
+Everything below is un-filled-in template-boilerplate.
+
 ==============================
 
 PACKAGE-NAME
