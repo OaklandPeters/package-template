@@ -1,3 +1,8 @@
+==============================
+BEWARE
+Everything below is boilerplate, and has not yet been modified.
+==============================
+
 PACKAGE-NAME
 ============
 
