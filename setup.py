@@ -13,7 +13,9 @@ from setuptools import setup
 
 
 def TEMPLATE(placeholder='unspecified'):
-    raise Exception("Template has not yet been filled in: "+unspecified)
+    """This function exists only to prevent you from running setup.py wihtout
+    filling in necessary parts. Delete TEMPLATE in the filled-in version."""
+    raise Exception("Template has not yet been filled in for: "+placeholder)
 
 setup(
     name=TEMPLATE('{package-name}'),
@@ -29,8 +31,14 @@ setup(
     packages=[TEMPLATE('{package-name}')],
 
     classifiers=[
+        #Select one 'Development Status'
+        #'Development Status :: 1 - Planning',
+        #'Development Status :: 2 - Pre-Alpha',
+        #'Development Status :: 3 - Alpha',
+        #'Development Status :: 4 - Beta',
         #'Development Status :: 5 - Production/Stable',
         'License :: OSI Approved :: MIT License',
+        'Natural Language :: English',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2',
@@ -39,5 +47,6 @@ setup(
 
         'Topic :: Software Development :: Libraries :: Python Modules',
         'Intended Audience :: Developers',
+        'Topic :: Utilities' #only if appropriate
     ]
 )
