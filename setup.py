@@ -30,6 +30,8 @@ setup(
 
     packages=[TEMPLATE('{package-name}')],
 
+    include_package_data=True,
+
     classifiers=[
         #Select one 'Development Status'
         #'Development Status :: 1 - Planning',

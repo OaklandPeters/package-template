@@ -40,5 +40,5 @@ max-line-length=100
 # E1101: When a variable is accessed for an unexistent member.
 #     Both E0102 & E1101 incorrectly trigger for @property s in Python 2.6
 # W0142: Used * or ** magic
-disable=E0102,E1101,W0142
+disable=E0102,E1101,W0142,C0325
 
